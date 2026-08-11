@@ -1,5 +1,6 @@
 # main.py
 import os
+from datetime import datetime
 from google import genai
 
 def generate_stoic_reflection():
@@ -17,17 +18,38 @@ def generate_stoic_reflection():
      "practical explanation and one actionable exercise for today. "
      "Keep the tone grounded and clear."
   )
+  
   # Request a response
   response = client.models.generate_content(
     model = 'gemini-3.6-flash',
     contents = prompt,
   )
   reflection_text = response.text
-  # append the result to a markdown file
-  with open("daily_reflections.md", "a", encoding = "utf-8") as file:
-    file.write(f"\n\n## Daily Reflection\n")
+  
+  # set the date of the daily reflection
+  current_date = datetime.now().strftime("%Y-%m-%d")
+  
+  # append the result to a markdown file that serves as a log of all reflections
+  with open("daily_reflections_log.md", "a", encoding = "utf-8") as file:
+    file.write(f"\n\n## Daily Reflection for {current_date}\n")
     file.write(reflection_text)
-  print("Successfully updated daily_reflections.md")
+  # prepare a readme
+  readme_content = f"""# 🏛️ Daily Stoic Bot
+
+Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
+
+## 🌟 Today's Stoic Reflection
+
+{reflection_text}
+
+---
+*Looking for older entries? Check out the full **[Daily Reflections Archive](./daily_reflections_log.md)**.*
+"""
+  # save the daily log as the Readme for the repo and print that it's complete
+  with open("README.md", "w", encoding="utf-8") as file:
+      file.write(readme_content)
+  
+  print("Successfully updated README.md and daily_reflections_log.md")
 
 if __name__ == "__main__":
   generate_stoic_reflection()
