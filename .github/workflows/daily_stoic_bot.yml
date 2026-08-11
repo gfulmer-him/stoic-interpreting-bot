@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4.2.2 # Updated to latest version using Node 24
+        uses: actions/checkout@v5 # v5 so it works with Node 24
 
       - name: Set up Python
-        uses: actions/setup-python@v5.4.0 # Updated to latest version using Node 24
+        uses: actions/setup-python@v6 # v6 to work with Node 24
         with:
           python-version: '3.10'
 
