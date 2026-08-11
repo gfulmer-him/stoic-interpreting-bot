@@ -32,4 +32,5 @@ jobs:
           git config --global user.email "action@github.com"
           git add daily_reflections.md
           git commit -m "Add daily Stoic reflection [skip ci]" || exit 0
+          git pull --rebase origin main
           git push
