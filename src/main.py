@@ -19,7 +19,7 @@ def generate_stoic_reflection():
   )
   # Request a response
   response = client.models.generate_content(
-    model = 'gemini-2.5-flash',
+    model = 'gemini-3.6-flash',
     contents = prompt,
   )
   reflection_text = response.text
