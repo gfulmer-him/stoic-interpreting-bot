@@ -38,14 +38,20 @@ def generate_stoic_reflection():
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection
+## 🌟 Today's Stoic Reflection ({current_date})
 
 {reflection_text}
 
 ---
+Please consider sponsoring me as a sign of support.
+
 *Looking for older entries? Check out the full **[Daily Reflections Archive](./daily_reflections_log.md)**.*
 """
-  # save the daily log as the Readme for the repo and print that it's complete
+  # save the text to a temp file that can pass into email
+  with open("today_reflection.txt", "w", encoding = "utf-8") as file:
+    file.write(reflection_text)
+  
+  # save the daily log into the Readme for the repo and print that it's complete
   with open("README.md", "w", encoding="utf-8") as file:
       file.write(readme_content)
   
