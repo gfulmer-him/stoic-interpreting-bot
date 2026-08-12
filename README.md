@@ -6,18 +6,20 @@ Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily i
 
 **Daily Stoic Quote**
 
-> "We suffer more often in imagination than in reality." 
-> — Seneca
+> "We suffer more often in imagination than in reality."  
+> — **Seneca**, *Letters from a Stoic*
 
 ***
 
 **Practical Explanation**
-Most of the anxiety we experience throughout the day doesn't stem from what is actually happening right now, but from the worst-case scenarios we invent in our minds. By constantly anticipating future trouble, we end up paying interest on a debt we might never actually owe. Grounding yourself in the present moment strips away this self-inflicted dread, leaving you to deal only with the manageable reality directly in front of you.
+
+Most of the anxiety you experience today will come from anticipating worst-case scenarios that have not actually happened. When your mind spins narratives about potential failures, awkward moments, or future troubles, it forces you to suffer an event long before—and often without—it ever occurring in real life. By anchoring your attention strictly in the present moment, you strip away phantom fears and reclaim your energy for the concrete reality in front of you.
 
 ***
 
 **Today’s Actionable Exercise**
-**The Reality Check:** The moment you feel a surge of stress or worry today, pause and ask yourself: *"Is this a real problem happening right this second, or am I reacting to a thought about the future?"* If it's just a mental story, take one slow breath, write the worry down to get it out of your head, and return your focus entirely to the single task immediately before you.
+
+**The Reality Check:** The moment you catch yourself worrying about an outcome today, pause and ask yourself out loud or in writing: *"Is this happening right now, or am I creating it in my mind?"* If it is purely in your mind, label it "Imagination," drop the thought, and focus entirely on the single physical task directly before you.
 
 ---
 Please consider sponsoring me as a sign of support.
