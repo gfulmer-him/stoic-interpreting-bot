@@ -45,6 +45,8 @@ Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily i
 ---
 Please consider sponsoring me as a sign of support.
 
+To receive these daily updates directly in your email inbox, click the Watch button at the top of this repository, select Custom, check Releases, and click Apply!
+
 *Looking for older entries? Check out the full **[Daily Reflections Archive](./daily_reflections_log.md)**.*
 """
   # save the text to a temp file that can pass into email
