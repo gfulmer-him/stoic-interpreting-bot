@@ -2,16 +2,20 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection
+## 🌟 Today's Stoic Reflection (2026-08-12)
 
-> **"We suffer more often in imagination than in reality."** 
-> — Seneca, *Letters from a Stoic*
+**"Make the best use of what is in your power, and take the rest as it happens."** 
+— Epictetus
 
 ### Practical Explanation
-Most of the anxiety you experience today will not come from what actually happens, but from the worst-case scenarios your mind invents about the future. By learning to separate hard facts from your brain's dramatic assumptions, you immediately regain control over your peace of mind. True resilience begins when you stop fighting hypothetical problems and direct your energy only to the concrete reality in front of you.
+Life constantly throws unexpected variables at us, but your time and mental energy are strictly finite. When you try to force external outcomes, timing, or other people's behavior, you waste vital resources on things that simply do not obey your command. True agency comes from directing your focus exclusively toward your own choices and accepting whatever follows with composure.
 
 ### Actionable Exercise for Today
-**The Fact-Check Pause:** The next time you feel a spike of stress or anxiety today, stop and ask yourself: *"Is this happening right now, or am I rehearsing a story about what might happen?"* Strip away the story, identify the single factual reality of the moment, and take one small, sensible action to address only that reality.
+**The Control Audit:** Identify one thing causing you frustration today. Take a piece of paper, draw a line down the middle, and list what about this situation is *100% in your control* on the left (your response, your preparation, your effort) and what is *out of your control* on the right (the result, other people's opinions, past events). Circle one action from the left column to execute today, and make a conscious decision to drop your attachment to everything on the right.
 
 ---
+Please consider sponsoring me as a sign of support.
+
+To receive these daily updates directly in your email inbox, click the Watch button at the top of this repository, select Custom, check Releases, and click Apply!
+
 *Looking for older entries? Check out the full **[Daily Reflections Archive](./daily_reflections_log.md)**.*
