@@ -33,4 +33,19 @@ jobs:
           git add .
           git commit -m "Add daily Stoic reflection [skip ci]" || exit 0
           git pull --rebase origin main
-          git push
+          git push origin main
+
+      # get current date for version
+      - name: Get current date
+        id: date
+        run: echo "date=$(date + '%Y-%m-%d')" >> $GITHUB_OUTPUT
+
+      # release with trigger to email
+      - name: Create GitHub release (trigger email)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.date.outputs.date }}
+          name: "Daily Stoic Reflection: ${{ steps.date.outputs.date }}"
+          body_path: today_reflection.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
