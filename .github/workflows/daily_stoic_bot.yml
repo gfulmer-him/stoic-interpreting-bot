@@ -42,7 +42,7 @@ jobs:
 
       # release with trigger to email
       - name: Create GitHub Release (Triggers Emails)
-        uses: actions/github-script@v7
+        uses: actions/github-script@v9
         with:
           script: |
             const fs = require('fs');
