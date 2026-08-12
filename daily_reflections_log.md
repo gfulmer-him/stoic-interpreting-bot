@@ -19,3 +19,19 @@ Life constantly throws unexpected variables at us, but your time and mental ener
 
 ### Actionable Exercise for Today
 **The Control Audit:** Identify one thing causing you frustration today. Take a piece of paper, draw a line down the middle, and list what about this situation is *100% in your control* on the left (your response, your preparation, your effort) and what is *out of your control* on the right (the result, other people's opinions, past events). Circle one action from the left column to execute today, and make a conscious decision to drop your attachment to everything on the right.
+
+## Daily Reflection for 2026-08-12
+**Daily Stoic Quote**
+
+> "We suffer more often in imagination than in reality." 
+> — Seneca
+
+***
+
+**Practical Explanation**
+Most of the anxiety we experience throughout the day doesn't stem from what is actually happening right now, but from the worst-case scenarios we invent in our minds. By constantly anticipating future trouble, we end up paying interest on a debt we might never actually owe. Grounding yourself in the present moment strips away this self-inflicted dread, leaving you to deal only with the manageable reality directly in front of you.
+
+***
+
+**Today’s Actionable Exercise**
+**The Reality Check:** The moment you feel a surge of stress or worry today, pause and ask yourself: *"Is this a real problem happening right this second, or am I reacting to a thought about the future?"* If it's just a mental story, take one slow breath, write the worry down to get it out of your head, and return your focus entirely to the single task immediately before you.
