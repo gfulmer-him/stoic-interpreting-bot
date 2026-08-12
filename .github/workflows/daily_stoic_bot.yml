@@ -41,11 +41,16 @@ jobs:
         run: echo "date=$(date + '%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       # release with trigger to email
-      - name: Create GitHub release (trigger email)
-        uses: softprops/action-gh-release@v2
+      - name: Create GitHub Release (Triggers Emails)
+        uses: actions/github-script@v7
         with:
-          tag_name: v${{ steps.date.outputs.date }}
-          name: "Daily Stoic Reflection: ${{ steps.date.outputs.date }}"
-          body_path: today_reflection.txt
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN}}
+          script: |
+            const fs = require('fs');
+            const body = fs.readFileSync('today_reflection.txt', 'utf8');
+            await github.rest.repos.createRelease({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              tag_name: 'v' + '${{ steps.date.outputs.date }}',
+              name: 'Stoic Reflection: ' + '${{ steps.date.outputs.date }}',
+              body: body
+            });
