@@ -50,7 +50,7 @@ jobs:
             await github.rest.repos.createRelease({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              tag_name: 'v' + '${{ steps.date.outputs.date }}',
+              tag_name: 'v' + '${{ steps.date.outputs.date }}' + '-' + '${{ github.run_number }}',
               name: 'Stoic Reflection: ' + '${{ steps.date.outputs.date }}',
               body: body
             });
