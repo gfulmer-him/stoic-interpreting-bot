@@ -105,4 +105,5 @@ To receive these daily updates directly in your email inbox, click the Watch but
   print("Successfully updated README.md and daily_reflections_log.md")
 
 if __name__ == "__main__":
-  generate_stoic_reflection()
+    today_quotation = fetch_and_check_quote()
+    generate_stoic_reflection(today_quotation)
