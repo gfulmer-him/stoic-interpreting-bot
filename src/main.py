@@ -18,17 +18,23 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
     # Craft prompt
     history_string = "\n".join(recent_quotes) if recent_quotes else "None"
     prompt = (
-        f"Find a brief daily Stoic quote from Marcus Aurelius, Seneca, or Epictetus. "
+        f"Find a brief daily Stoic quote from Marcus Aurelius, Seneca, Epictetus, Massimo Pigliuicci, or Wiliam B. Irvine. "
         f"CRITICAL: It must NOT be identical or highly similar to any quote in this list:\n"
         f"{history_string}\n\n"
-        f"Return ONLY the quote text and the author name. Do not add any conversational intro or outro text."
+        f"Output Requirements:\n"
+        f"1. You must return everything on a single, continuous line.\n"
+        f"2. Use this exact format: \"[Quote text here]\" — [Author Name]\n"
+        f"3. Do not include any line breaks, extra text, or conversational intros."
     )
     # Request a response
     test_quotation = client.models.generate_content(
         model = 'gemini-3.6-flash',
         contents = prompt,
         )
-    quotation_text = test_quotation.text.strip()
+    # Strip whitespace, replace actual newlines/carriage returns with a single space
+    quotation_text = response.text.strip().replace("\n", " ").replace("\r", "")
+    # Clean up any accidental double spaces caused by the newline removal
+    quotation_text = " ".join(quotation_text.split())
     recent_quotes.append(quotation_text)
     if len(recent_quotes) > 10:
         recent_quotes.pop(0)  # Keep only the last 10 entries
