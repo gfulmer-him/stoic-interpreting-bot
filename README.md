@@ -2,28 +2,17 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-13)
+## 🌟 Today's Stoic Reflection (2026-08-14)
 
-**Daily Stoic Quote**
+**Quote:**
+> "We suffer more often in imagination than in reality." 
+> — Seneca, *Letters from a Stoic*
 
-> "We suffer more often in imagination than in reality."  
-> — **Seneca**, *Letters from a Stoic*
+**Explanation:**
+Our anxiety usually stems from projecting worst-case scenarios about the future rather than responding to what is actually happening right now. When you strip away your mental commentary about a problem, the objective reality is almost always smaller and far more manageable than the fear that preceded it. Modern Stoicism isn't about suppressing your feelings, but about refusing to add unnecessary mental drama to life's everyday hurdles.
 
-***
-
-**Practical Explanation**
-
-Modern life constantly feeds us potential worst-case scenarios, causing us to suffer over troubles that haven't actually happened yet. Seneca reminds us that most of the anxiety we experience isn't caused by our current reality, but by the catastrophic stories we construct about the future. By deliberately anchoring your attention to what is happening right now, you strip away the imaginary weight of tomorrow and reclaim your clarity today.
-
-***
-
-**Today's Actionable Exercise**
-
-**The "Fact vs. Fiction" Check:** The next time you feel a spike of anxiety or dread today, pause and write down two columns on a piece of paper or in your phone: 
-1. *The Objective Fact* (What is physically happening right now)
-2. *The Story* (What your mind is projecting will happen)
-
-Acknowledge the fact, mentally cross out the story, and return your focus only to the task directly in front of you.
+**Actionable Exercise for Today:**
+**The Reality Audit.** When you feel a wave of anxiety or stress about a task, meeting, or event today, grab a piece of paper and write down two headings: *Bare Facts* and *My Additions*. List only the objective, unvarnished facts under the first column, and move any "what-ifs," assumptions, or catastrophic thoughts to the second—then choose to act exclusively on the facts.
 
 ---
 Please consider sponsoring me as a sign of support.
