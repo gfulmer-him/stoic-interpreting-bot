@@ -15,7 +15,7 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
         return
     # Initialize Gemini client
     client = genai.Client(api_key=api_key)
-    # Craft prompt
+    # Craft prompt that requests a quotation, but it must be different from the previous quotations.
     history_string = "\n".join(recent_quotes) if recent_quotes else "None"
     prompt = (
         f"Find a brief daily Stoic quote from Marcus Aurelius, Seneca, Epictetus, Massimo Pigliuicci, or Wiliam B. Irvine. "
@@ -26,13 +26,13 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
         f"2. Use this exact format: \"[Quote text here]\" — [Author Name]\n"
         f"3. Do not include any line breaks, extra text, or conversational intros."
     )
-    # Request a response
+    # Request a quotation
     test_quotation = client.models.generate_content(
         model = 'gemini-3.6-flash',
         contents = prompt,
         )
     # Strip whitespace, replace actual newlines/carriage returns with a single space
-    quotation_text = response.text.strip().replace("\n", " ").replace("\r", "")
+    quotation_text = test_quotation.text.strip().replace("\n", " ").replace("\r", "")
     # Clean up any accidental double spaces caused by the newline removal
     quotation_text = " ".join(quotation_text.split())
     recent_quotes.append(quotation_text)
@@ -43,16 +43,6 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
             f.write(f"{q}\n")    
     return quotation_text        
       
-'''  
-  try:
-        response = requests.get("https://themotivate365.com") # Example API
-        data = response.json()
-        return f'"{data["quote"]}" — {data["author"]}'
-    except Exception as e:
-        print(f"Error fetching quote: {e}")
-        sys.exit(1)
-'''
-
 def generate_stoic_reflection(stoic_quotation):
   # Fetch API from GitHub secrets
   api_key = os.environ.get("LLM_API_KEY")
