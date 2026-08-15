@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-14)
+## 🌟 Today's Stoic Reflection (2026-08-15)
 
-As the Roman Emperor and Stoic philosopher Marcus Aurelius wisely noted, *"You have power over your mind - not outside events. Realize this, and you will find strength."*
+"Wealth consists not in having great possessions, but in having few wants." — Epictetus
 
-Life constantly throws unexpected challenges our way, from minor daily disruptions to major life shifts, none of which we can truly dictate. What we always retain total authority over is our internal response—the judgments we make about a situation and the choices we make next. Realizing this distinction liberates you from feeling helpless, turning external chaos into an opportunity to practice quiet, unshakable resilience.
+True wealth isn't about accumulating more possessions, but about mastering your own desires so that you are no longer controlled by them. When your peace of mind depends on the next purchase or upgrade, you place your happiness in external circumstances beyond your control. By intentionally narrowing what you require to feel content, you instantly gain a sense of abundance and freedom that money can never buy.
 
-**Today’s Exercise: The Control Filter**
-The next time you feel a surge of frustration, stress, or anger today, pause for ten seconds and ask yourself one simple question: *"Is this specific issue directly within my control, or is it an outside event?"* If it is outside your control, consciously name it as such, let go of trying to change it, and shift your focus entirely to the one thing you can govern: your immediate attitude and next step.
+**Actionable Exercise for Today: The Desire Audit**
+Identify one non-essential item or upgrade you have been wanting to buy recently. Today, consciously choose to pause that purchase and write down one reason why you are already complete without it.
 
 ---
 Please consider sponsoring me as a sign of support.
