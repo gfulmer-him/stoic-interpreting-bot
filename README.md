@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-15)
+## 🌟 Today's Stoic Reflection (2026-08-16)
 
-"Wealth consists not in having great possessions, but in having few wants." — Epictetus
+As the Roman Emperor and Stoic practitioner Marcus Aurelius wrote in his private journal: **"Waste no more time arguing about what a good man should be. Be one."**
 
-True wealth isn't about accumulating more possessions, but about mastering your own desires so that you are no longer controlled by them. When your peace of mind depends on the next purchase or upgrade, you place your happiness in external circumstances beyond your control. By intentionally narrowing what you require to feel content, you instantly gain a sense of abundance and freedom that money can never buy.
+It is easy to get caught up debating ethics, complaining about the behavior of others, or endlessly consuming self-improvement content without actually changing how we live. Stoicism is not an academic theory, but a practical discipline measured entirely by your daily choices and actions. Ultimately, your character isn't defined by the values you preach, but by how you treat the people and responsibilities right in front of you.
 
-**Actionable Exercise for Today: The Desire Audit**
-Identify one non-essential item or upgrade you have been wanting to buy recently. Today, consciously choose to pause that purchase and write down one reason why you are already complete without it.
+**Actionable Exercise for Today:**
+Identify one moment today where you feel tempted to complain, debate who is right, or wait for someone else to do the correct thing. Instead of saying a word or seeking credit, quietly take action and do the right thing yourself—whether that means responding with patience to a difficult person, picking up a mess you didn't make, or fulfilling a duty you've been avoiding.
 
 ---
 Please consider sponsoring me as a sign of support.
