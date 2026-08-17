@@ -63,9 +63,11 @@ def fetch_and_check_quote() -> str:
 def generate_stoic_reflection(stoic_quotation: str) -> str:
     # Fetch API from GitHub secrets
     api_key = os.environ.get("LLM_API_KEY")
+    MODEL_ID = 'gemini-3.6-flash'
+    MAX_RETRIES = 3
     if not api_key:
         print("Error: LLM_API_KEY environment variable not found.")
-    return
+        return
     # Initialize Gemini client
     client = genai.Client(api_key=api_key)
     # Craft prompt
