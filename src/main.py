@@ -31,7 +31,7 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
     # Initiate a chat
     chat = client.chats.create(
         model=MODEL_ID,
-        config=type.GenerateContentConfig(
+        config=types.GenerateContentConfig(
             tools=[fetch_and_check_quote], # Handing over the tool name
         )
     )
@@ -78,7 +78,7 @@ def generate_stoic_reflection(stoic_quotation):
     # Initiate a chat
     chat = client.chats.create(
         model=MODEL_ID,
-        config=type.GenerateContentConfig(
+        config=types.GenerateContentConfig(
             tools=[generate_stoic_reflection]
         ),
     )
