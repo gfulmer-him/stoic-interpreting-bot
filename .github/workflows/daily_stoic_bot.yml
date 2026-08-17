@@ -5,6 +5,9 @@ on:
     - cron: '0 12 * * *' # Runs every day at 12:00 PM UTC
   workflow_dispatch: # Allows manual testing
 
+permissions: 
+  contents: write
+
 jobs:
   generate-reflection:
     runs-on: ubuntu-latest
@@ -38,19 +41,27 @@ jobs:
       # get current date for version
       - name: Get current date
         id: date
-        run: echo "date=$(date + '%Y-%m-%d')" >> $GITHUB_OUTPUT
+        run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
       # release with trigger to email
       - name: Create GitHub Release (Triggers Emails)
-        uses: actions/github-script@v9
-        with:
-          script: |
-            const fs = require('fs');
-            const body = fs.readFileSync('today_reflection.txt', 'utf8');
-            await github.rest.repos.createRelease({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              tag_name: 'v' + '${{ steps.date.outputs.date }}' + '-' + '${{ github.run_number }}',
-              name: 'Stoic Reflection: ' + '${{ steps.date.outputs.date }}',
-              body: body
-            });
+        #uses: actions/github-script@v9
+        #with:
+         # script: |
+         #   const fs = require('fs');
+         #   const body = fs.readFileSync('today_reflection.txt', 'utf8');
+         #   await github.rest.repos.createRelease({
+         #     owner: context.repo.owner,
+         #     repo: context.repo.repo,
+         #     tag_name: 'v' + '${{ steps.date.outputs.date }}' + '-' + '${{ github.run_number }}',
+         #     name: 'Stoic Reflection: ' + '${{ steps.date.outputs.date }}',
+         #     body: body
+         #   });
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG_NAME: "v${{ steps.date.outputs.date }}-${{ github.run_number }}"
+          RELEASE_TITLE: "Stoic Reflection: ${{ steps.date.outputs.date }}"
+        run: |
+          gh release create "$TAG_NAME" \
+            --title "$RELEASE_TITLE" \
+            --notes-file today_reflection.txt
