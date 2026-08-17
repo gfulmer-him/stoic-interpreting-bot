@@ -101,8 +101,7 @@ def generate_stoic_reflection(stoic_quotation):
                 file.write(f"\n\n## Daily Reflection for {current_date}\n")
                 file.write(reflection_text)
             # prepare a readme
-            readme_content = 
-f"""# 🏛️ Daily Stoic Bot
+            readme_content = f"""# 🏛️ Daily Stoic Bot
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
