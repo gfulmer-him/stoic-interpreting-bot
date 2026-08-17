@@ -4,7 +4,7 @@ from datetime import datetime
 from google import genai
 from google.genai import types
 
-def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
+def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt") -> str:
     if not os.path.exists(recent_quotation_file):
         open(recent_quotation_file, "w").close()
     with open(recent_quotation_file, "r") as f:
@@ -60,7 +60,7 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
                 continue
             raise e
       
-def generate_stoic_reflection(stoic_quotation):
+def generate_stoic_reflection(stoic_quotation) -> str:
     # Fetch API from GitHub secrets
     api_key = os.environ.get("LLM_API_KEY")
     if not api_key:
