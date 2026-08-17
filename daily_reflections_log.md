@@ -120,3 +120,11 @@ It is easy to get caught up debating ethics, complaining about the behavior of o
 
 **Actionable Exercise for Today:**
 Identify one moment today where you feel tempted to complain, debate who is right, or wait for someone else to do the correct thing. Instead of saying a word or seeking credit, quietly take action and do the right thing yourself—whether that means responding with patience to a difficult person, picking up a mess you didn't make, or fulfilling a duty you've been avoiding.
+
+## Daily Reflection for 2026-08-17
+As Marcus Aurelius, the Roman Emperor and Stoic philosopher, famously wrote: **"The best revenge is to be unlike him who performed the injury."**
+
+When someone wrongs you, the natural instinct is to retaliate, but doing so forces you to adopt the very toxic behavior that harmed you in the first place. True strength isn't about getting even; it is about protecting your character, values, and peace of mind regardless of how poorly others behave. By refusing to sink to their level, you retain total control over yourself and prove that their bad actions have no power to corrupt who you are.
+
+**Today’s Exercise:** 
+The next time someone is rude, impatient, or unfair to you today, take a slow breath and deliberately respond with composure and kindness. Use that moment as an opportunity to actively practice the exact virtue they are lacking, letting their bad behavior stop with them rather than continuing through you.
