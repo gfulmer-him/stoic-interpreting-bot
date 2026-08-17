@@ -2,6 +2,7 @@
 import os
 from datetime import datetime
 from google import genai
+from google.genai import types
 
 def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
     if not os.path.exists(recent_quotation_file):
