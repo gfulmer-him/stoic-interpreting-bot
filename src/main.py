@@ -12,7 +12,7 @@ def fetch_and_check_quote() -> str:
         recent_quotes = [line.strip() for line in f.readlines() if line.strip()]
     # Fetch API from GitHub secrets
     api_key = os.environ.get("LLM_API_KEY")
-    MODEL_ID = 'gemini-3.6.flash'
+    MODEL_ID = 'gemini-3.6-flash'
     MAX_RETRIES = 3
     if not api_key:
         print("Error: LLM_API_KEY environment variable not found.")
