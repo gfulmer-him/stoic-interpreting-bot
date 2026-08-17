@@ -19,10 +19,6 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
     client = genai.Client(api_key=api_key)
     # Craft prompt that requests a quotation, but it must be different from the previous quotations.
     history_string = "\n".join(recent_quotes) if recent_quotes else "None"
-    chat_config = (
-        "You are familiar with known stoic philosophers like "
-        "Marcus Aurelius, Seneca, Epictetus, Massimo Pigliuicci, or Wiliam B. Irvine."
-    )
     quote_prompt = (
         f"Find a brief daily Stoic quote from Marcus Aurelius, Seneca, Epictetus, Massimo Pigliuicci, or Wiliam B. Irvine. "
         f"CRITICAL: It must NOT be identical or highly similar to any quote in this list:\n"
@@ -35,9 +31,9 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt"):
     # Initiate a chat
     chat = client.chats.create(
         model=MODEL_ID,
-        config=GenerateContentConfig(
-            system_instruction=chat_config
-        ),
+        config=types.GenerateContentConfig(
+            tools=[fetch_and_check_quote], # Handing over the tool name
+        )
     )
     for attempt in range(MAX_RETRIES):
         try:
@@ -72,11 +68,9 @@ def generate_stoic_reflection(stoic_quotation):
     # Initialize Gemini client
     client = genai.Client(api_key=api_key)
     # Craft prompt
-    chat_config = (
+    chat_prompt = (
         f"Act as a modern Stoic philosopher who wants to share an interpretion of the following quotation: "
         f"{stoic_quotation} with a general audience. "
-    )
-    chat_prompt = (
         "Restate the quotation and, if necessary, add who the author is. Then follow that with a 3-sentence "
         "practical explanation and one actionable exercise for today. "
         "Keep the tone grounded and clear."
@@ -84,8 +78,8 @@ def generate_stoic_reflection(stoic_quotation):
     # Initiate a chat
     chat = client.chats.create(
         model=MODEL_ID,
-        config=GenerateContentConfig(
-            system_instruction=chat_config
+        config=types.GenerateContentConfig(
+            tools=[generate_stoic_reflection]
         ),
     )
     for attempt in range(MAX_RETRIES):
