@@ -90,7 +90,7 @@ def generate_stoic_reflection(stoic_quotation: str) -> str:
             with open("daily_reflections_log.md", "a", encoding = "utf-8") as file:
                 file.write(f"\n\n## Daily Reflection for {current_date}\n")
                 file.write(reflection_text)
-            # prepare a readme
+            # prepare the content to go into the updated readme
             readme_content = f"""# 🏛️ Daily Stoic Bot
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
@@ -113,6 +113,7 @@ To receive these daily updates directly in your email inbox, click the Watch but
             with open("README.md", "w", encoding="utf-8") as file:
                 file.write(readme_content)
             print("Successfully updated README.md and daily_reflections_log.md")
+            return reflection_text
         except ServerError as e:
             # check any 500 level error
             if e.code >= 500 and attempt < MAX_RETRIES - 1:
