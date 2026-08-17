@@ -1,7 +1,8 @@
 # main.py
+import os
 import time
+from datetime import datetime
 from google import genai
-from google.genai import types
 from google.genai.errors import ServerError, APIError
 
 def fetch_and_check_quote() -> str:
@@ -30,12 +31,7 @@ def fetch_and_check_quote() -> str:
         f"3. Do not include any line breaks, extra text, or conversational intros."
     )
     # Initiate a chat
-    chat = client.chats.create(
-        model=MODEL_ID,
-        config=types.GenerateContentConfig(
-            tools=[fetch_and_check_quote], # Handing over the tool name
-        )
-    )
+    chat = client.chats.create(model=MODEL_ID)
     for attempt in range(MAX_RETRIES):
         try:
             # Request a quotation
@@ -81,18 +77,13 @@ def generate_stoic_reflection(stoic_quotation: str) -> str:
         "Keep the tone grounded and clear."
     )
     # Initiate a chat
-    chat = client.chats.create(
-        model=MODEL_ID,
-        config=types.GenerateContentConfig(
-            tools=[generate_stoic_reflection]
-        ),
-    )
+    chat = client.chats.create(model=MODEL_ID)
     for attempt in range(MAX_RETRIES):
         try:
             # Request the interpretation in chat
             chat_response = chat.send_message(chat_prompt)
             # Get the interpretation into text
-            response = chat_response.text
+            reflection_text = chat_response.text
             # set the date of the daily reflection
             current_date = datetime.now().strftime("%Y-%m-%d")
             # append the result to a markdown file that serves as a log of all reflections
