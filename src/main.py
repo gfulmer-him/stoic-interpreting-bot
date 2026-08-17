@@ -1,13 +1,13 @@
 # main.py
-import os
-from datetime import datetime
+import time
 from google import genai
 from google.genai import types
+from google.genai.errors import ServerError, APIError
 
-def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt") -> str:
-    if not os.path.exists(recent_quotation_file):
-        open(recent_quotation_file, "w").close()
-    with open(recent_quotation_file, "r") as f:
+def fetch_and_check_quote() -> str:
+    if not os.path.exists("recently_quoted.txt"):
+        open("recently_quoted.txt", "w").close()
+    with open("recently_quoted.txt", "r", encoding = "utf-8") as f:
         recent_quotes = [line.strip() for line in f.readlines() if line.strip()]
     # Fetch API from GitHub secrets
     api_key = os.environ.get("LLM_API_KEY")
@@ -47,20 +47,24 @@ def fetch_and_check_quote(recent_quotation_file = "recently_quoted.txt") -> str:
             recent_quotes.append(quotation_text)
             if len(recent_quotes) > 10:
                 recent_quotes.pop(0)  # Keep only the last 10 entries
-            with open(recent_quotation_file, "w") as f:
+            with open("recently_quoted.txt", "w") as f:
                 for q in recent_quotes:
                     f.write(f"{q}\n")    
             return quotation_text
         except ServerError as e:
-            # check 503 error
-            if e.code == 503 and attempt < MAX_RETRIES - 1:
+            # check any 500 level error
+            if e.code >= 500 and attempt < MAX_RETRIES - 1:
                 sleep_time = (attempt + 1) * 5
                 print(f"Gemini API 503 busy. Retrying in {sleep_time} seconds.")
                 time.sleep(sleep_time)
                 continue
             raise e
+        except APIError as e:
+            # check for API errors
+            print(f"Gemini API Error occurred: {e.message} (Status: {e.code})")
+            raise e
       
-def generate_stoic_reflection(stoic_quotation) -> str:
+def generate_stoic_reflection(stoic_quotation: str) -> str:
     # Fetch API from GitHub secrets
     api_key = os.environ.get("LLM_API_KEY")
     if not api_key:
@@ -119,12 +123,16 @@ To receive these daily updates directly in your email inbox, click the Watch but
                 file.write(readme_content)
             print("Successfully updated README.md and daily_reflections_log.md")
         except ServerError as e:
-            # check 503 error
-            if e.code == 503 and attempt < MAX_RETRIES - 1:
+            # check any 500 level error
+            if e.code >= 500 and attempt < MAX_RETRIES - 1:
                 sleep_time = (attempt + 1) * 5
                 print(f"Gemini API 503 busy. Retrying in {sleep_time} seconds.")
                 time.sleep(sleep_time)
                 continue
+            raise e
+        except APIError as e:
+            # check for API errors
+            print(f"Gemini API Error occurred: {e.message} (Status: {e.code})")
             raise e
 
 if __name__ == "__main__":
