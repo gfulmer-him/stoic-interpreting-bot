@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-17)
+## 🌟 Today's Stoic Reflection (2026-08-18)
 
-As Marcus Aurelius, the Roman Emperor and Stoic philosopher, famously wrote: **"The best revenge is to be unlike him who performed the injury."**
+As the ancient Stoic philosopher Seneca famously observed, **"Luck is what happens when preparation meets opportunity."**
 
-When someone wrongs you, the natural instinct is to retaliate, but doing so forces you to adopt the very toxic behavior that harmed you in the first place. True strength isn't about getting even; it is about protecting your character, values, and peace of mind regardless of how poorly others behave. By refusing to sink to their level, you retain total control over yourself and prove that their bad actions have no power to corrupt who you are.
+We cannot dictate when favorable circumstances will arrive, but we have absolute control over our daily effort, character, and skills. When an unexpected door opens, those who have quietly done the work can step through it, while those who waited for a miracle are left unprepared. What the world calls passive "luck" is simply the visible result of your internal discipline meeting an external moment.
 
 **Today’s Exercise:** 
-The next time someone is rude, impatient, or unfair to you today, take a slow breath and deliberately respond with composure and kindness. Use that moment as an opportunity to actively practice the exact virtue they are lacking, letting their bad behavior stop with them rather than continuing through you.
+Identify one area in your life where you are waiting for a "lucky break"—whether in your career, a relationship, or a personal project. Spend 15 minutes today doing the unglamorous, foundational work (studying, organizing, practicing) required to handle that opportunity when it finally arrives.
 
 ---
 Please consider sponsoring me as a sign of support.
