@@ -144,3 +144,13 @@ Hard times do not destroy your character; they reveal it. When life goes smoothl
 
 **Today’s Exercise:** 
 The next time you face an unexpected difficulty today—whether it is a delayed train, a rude message, or a minor mistake at work—pause before reacting. Remind yourself, *"This is my test,"* and deliberately choose to respond with patience and clarity rather than frustration.
+
+## Daily Reflection for 2026-08-20
+**"We suffer more often in imagination than in reality." — Seneca**
+
+Most of our stress doesn't come from what is actually happening in this moment, but from the catastrophic stories our minds construct about the future. We anticipate pain, replay past mistakes, and invent worst-case scenarios, essentially punishing ourselves long before any real hardship occurs. When we ground ourselves in the present, we usually find that actual reality is far more manageable than the phantom problems created by our anxiety.
+
+***
+
+### Today’s Exercise: The "Fact Check"
+Whenever you feel a spike of worry or stress today, pause and ask yourself one simple question: **"Is this threat happening right now, or am I just imagining it?"** If it is only happening in your mind, take a deep breath and state one objective fact about your immediate physical reality (for example: *"I am sitting safely in my chair, drinking water"*). Use that present fact to pull your mind out of the imagined future.

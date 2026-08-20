@@ -2,14 +2,16 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-19)
+## 🌟 Today's Stoic Reflection (2026-08-20)
 
-As the ancient Stoic teacher Epictetus once wrote, “Difficulties show what men are.”
+**"We suffer more often in imagination than in reality." — Seneca**
 
-Hard times do not destroy your character; they reveal it. When life goes smoothly, it is easy to appear patient, kind, and composed, but our true values and resilience are only tested when things go wrong. Instead of viewing setbacks as unfair misfortunes, we can choose to see them as mirror moments—opportunities to discover who we really are and who we wish to become.
+Most of our stress doesn't come from what is actually happening in this moment, but from the catastrophic stories our minds construct about the future. We anticipate pain, replay past mistakes, and invent worst-case scenarios, essentially punishing ourselves long before any real hardship occurs. When we ground ourselves in the present, we usually find that actual reality is far more manageable than the phantom problems created by our anxiety.
 
-**Today’s Exercise:** 
-The next time you face an unexpected difficulty today—whether it is a delayed train, a rude message, or a minor mistake at work—pause before reacting. Remind yourself, *"This is my test,"* and deliberately choose to respond with patience and clarity rather than frustration.
+***
+
+### Today’s Exercise: The "Fact Check"
+Whenever you feel a spike of worry or stress today, pause and ask yourself one simple question: **"Is this threat happening right now, or am I just imagining it?"** If it is only happening in your mind, take a deep breath and state one objective fact about your immediate physical reality (for example: *"I am sitting safely in my chair, drinking water"*). Use that present fact to pull your mind out of the imagined future.
 
 ---
 Please consider sponsoring me as a sign of support.
