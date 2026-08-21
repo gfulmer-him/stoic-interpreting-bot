@@ -2,16 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-20)
+## 🌟 Today's Stoic Reflection (2026-08-21)
 
-**"We suffer more often in imagination than in reality." — Seneca**
+"As long as you live, keep learning how to live." — Seneca
 
-Most of our stress doesn't come from what is actually happening in this moment, but from the catastrophic stories our minds construct about the future. We anticipate pain, replay past mistakes, and invent worst-case scenarios, essentially punishing ourselves long before any real hardship occurs. When we ground ourselves in the present, we usually find that actual reality is far more manageable than the phantom problems created by our anxiety.
+Living isn't an automatic process that happens just because you grow older; it is an active skill that requires continuous practice and refinement. We often assume that adulthood means having everything figured out, but every new challenge demands fresh humility and a willingness to adjust our perspectives. By treating life as an ongoing apprenticeship, you shift your mindset from merely reacting to your circumstances to intentionally growing through them.
 
-***
-
-### Today’s Exercise: The "Fact Check"
-Whenever you feel a spike of worry or stress today, pause and ask yourself one simple question: **"Is this threat happening right now, or am I just imagining it?"** If it is only happening in your mind, take a deep breath and state one objective fact about your immediate physical reality (for example: *"I am sitting safely in my chair, drinking water"*). Use that present fact to pull your mind out of the imagined future.
+**Today's Exercise:** 
+Identify one frustrating moment or mistake that occurs today. Instead of getting annoyed or judging yourself, pause and write down the answer to this question: *"What is this situation trying to teach me about my patience, my assumptions, or my reactions?"*
 
 ---
 Please consider sponsoring me as a sign of support.
