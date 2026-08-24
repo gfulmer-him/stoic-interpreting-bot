@@ -43,7 +43,7 @@ def fetch_and_check_quote() -> str:
             quotation_text = " ".join(quotation_text.split())
             recent_quotes.append(quotation_text)
             if len(recent_quotes) > MAX_STORED_QUOTES:
-                recent_quotes.pop(0)  # Keep only the last 10 entries
+                recent_quotes.pop(0)  # Keep only the last number of entries, set by the variable
             with open("recently_quoted.txt", "w") as f:
                 for q in recent_quotes:
                     f.write(f"{q}\n")    
