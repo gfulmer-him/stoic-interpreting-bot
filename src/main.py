@@ -13,6 +13,7 @@ def fetch_and_check_quote() -> str:
     # Fetch API from GitHub secrets
     api_key = os.environ.get("LLM_API_KEY")
     MODEL_ID = 'gemini-3.6-flash'
+    MAX_STORED_QUOTES = 21
     MAX_RETRIES = 3
     if not api_key:
         print("Error: LLM_API_KEY environment variable not found.")
@@ -41,7 +42,7 @@ def fetch_and_check_quote() -> str:
             # Clean up any accidental double spaces caused by the newline removal
             quotation_text = " ".join(quotation_text.split())
             recent_quotes.append(quotation_text)
-            if len(recent_quotes) > 10:
+            if len(recent_quotes) > MAX_STORED_QUOTES:
                 recent_quotes.pop(0)  # Keep only the last 10 entries
             with open("recently_quoted.txt", "w") as f:
                 for q in recent_quotes:
