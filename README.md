@@ -2,15 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-24)
+## 🌟 Today's Stoic Reflection (2026-08-25)
 
-As the Roman Stoic philosopher Seneca famously wrote: *"If a man knows not which port he sails to, no wind is favorable."*
+As the ancient Stoic teacher Epictetus wisely observed, **"No man is free who is not master of himself."** 
 
-In modern terms, without a clear purpose or direction, even the best opportunities and resources become useless because you won't know how to leverage them. We often spend our energy reacting to daily demands—endless notifications, distractions, and minor crises—without ever deciding where we actually want our lives to go. Once you define your destination—your core values and ultimate goals—you can finally use every situation, whether pleasant or challenging, as a wind to propel you forward.
+True freedom isn't about having total control over the external world; it is about maintaining control over your own reactions, desires, and impulses. When we allow anger, anxiety, or instant gratification to dictate our behavior, we hand over the remote control of our peace of mind to outside circumstances. Self-mastery means creating a deliberate space between a stimulus and your response, choosing calm reason over knee-jerk emotion every single time.
 
-**Today’s Exercise: Define Your Port**
-
-Take five minutes right now to write down your single primary objective for the day—the one outcome that aligns with the person you want to be. Throughout the day, whenever you face a decision or a distraction, pause and ask yourself: *"Is this pushing me toward my port, or am I just drifting?"* If it doesn't move you toward your destination, let it go.
+**Today’s Actionable Exercise: The 10-Second Pause**
+At least once today, when you feel a sudden surge of impatience, irritation, or the reflexive urge to react (like grabbing your phone during a tedious moment or snapping back at a frustrating comment), freeze for ten full seconds. Take a deep breath and ask yourself: *"Is this reaction making me the master of myself, or is it letting the situation master me?"* Make your choice consciously before you move or speak.
 
 ---
 Please consider sponsoring me as a sign of support.
