@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-08-25)
+## 🌟 Today's Stoic Reflection (2026-08-26)
 
-As the ancient Stoic teacher Epictetus wisely observed, **"No man is free who is not master of himself."** 
+"You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius
 
-True freedom isn't about having total control over the external world; it is about maintaining control over your own reactions, desires, and impulses. When we allow anger, anxiety, or instant gratification to dictate our behavior, we hand over the remote control of our peace of mind to outside circumstances. Self-mastery means creating a deliberate space between a stimulus and your response, choosing calm reason over knee-jerk emotion every single time.
+Most of our daily anxiety comes from exhausting our energy on things we cannot dictate, such as traffic, weather, or the moods and actions of other people. Stoicism reminds us that while we cannot force the world to behave as we want, we maintain absolute ownership over our own judgments, choices, and responses. True resilience isn't about bending external circumstances to your will, but about cultivating inner calm no matter what happens around you.
 
-**Today’s Actionable Exercise: The 10-Second Pause**
-At least once today, when you feel a sudden surge of impatience, irritation, or the reflexive urge to react (like grabbing your phone during a tedious moment or snapping back at a frustrating comment), freeze for ten full seconds. Take a deep breath and ask yourself: *"Is this reaction making me the master of myself, or is it letting the situation master me?"* Make your choice consciously before you move or speak.
+**Actionable Exercise for Today: The Control Filter**
+The next time you feel a surge of frustration or overwhelm today, pause for thirty seconds and split a piece of paper (or a digital note) into two columns: *In My Control* and *Out of My Control*. Write down the situation, ruthlessly move the external cause to the "Out" column, and focus 100% of your immediate energy on taking one constructive action listed under "In."
 
 ---
 Please consider sponsoring me as a sign of support.
