@@ -203,3 +203,11 @@ Most of our daily anxiety comes from exhausting our energy on things we cannot d
 
 **Actionable Exercise for Today: The Control Filter**
 The next time you feel a surge of frustration or overwhelm today, pause for thirty seconds and split a piece of paper (or a digital note) into two columns: *In My Control* and *Out of My Control*. Write down the situation, ruthlessly move the external cause to the "Out" column, and focus 100% of your immediate energy on taking one constructive action listed under "In."
+
+## Daily Reflection for 2026-08-27
+In his *Meditations*, the Roman Emperor and Stoic philosopher Marcus Aurelius wrote a simple yet profound rule for living: **"If it is not right do not do it; if it is not true do not say it."**
+
+This quote acts as a simple moral compass, stripping away the complex rationalizations we often use to justify small lies or questionable choices. In a noisy world filled with social pressure, workplace politics, and endless shortcuts, it demands that we align our everyday actions and words with strict personal integrity. By filtering your decisions through this dual lens of justice and truth, you eliminate future regret and cultivate a deep, unshakeable sense of peace.
+
+**Today's Exercise: The Two-Second Pause**
+Before you speak or take action today, take a deliberate two-second pause and ask yourself: *"Is this completely true, and is it genuinely the right thing to do?"* If the answer to either question is "no"—whether it is spreading half-true gossip, making an exaggeration, or taking an unethical shortcut—choose silence or abstain from the action entirely.
