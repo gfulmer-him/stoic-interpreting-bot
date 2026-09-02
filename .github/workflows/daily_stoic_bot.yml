@@ -2,7 +2,7 @@ name: Daily Stoic Reflection
 
 on:
   schedule:
-    - cron: '0 12 * * *' # Runs every day at 12:00 PM UTC
+    - cron: '0 8 * * *' # Runs every day at 12:00 PM UTC
   workflow_dispatch: # Allows manual testing
 
 permissions: 
