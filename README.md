@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-09-09)
+## 🌟 Today's Stoic Reflection (2026-09-10)
 
-As the Roman Stoic philosopher Seneca famously wrote, *"While we wait for life, life passes."*
+As the Roman Emperor and Stoic philosopher Marcus Aurelius wrote in his private journal: **"The best revenge is to be unlike him who performed the injury."**
 
-We often put our peace of mind and true living on hold, waiting for ideal future conditions—a better job, a less stressful season, or more certainty. Meanwhile, time moves inexorably forward, silently consuming the only moments we actually possess while we stare at a distant horizon. True living isn't a reward waiting for you at some future finish line; it is happening right now, in how you engage with today's ordinary reality.
+When someone wrongs us, our natural instinct is often to retaliate, but doing so only drags us down to the very level of the person who hurt us. True strength isn't about winning a feud; it is about protecting your own character and refusing to let another person’s poor behavior dictate who you become. By choosing integrity over retaliation, you break the cycle of conflict and preserve the only thing truly within your control: your own mind and actions.
 
-**Actionable Exercise for Today:**
-Identify one small thing you’ve been deferring until life feels "less busy" or "better"—whether that's having a meaningful conversation, stepping outside for a walk, or starting a personal project. Dedicate just ten minutes to doing it today, treating this present hour not as a waiting room, but as the main event.
+**Today's Exercise:** 
+Think of someone who recently frustrated you by being rude, dishonest, or unfair. Instead of complaining or plotting how to get back at them, identify the specific quality they lacked—such as patience, honesty, or kindness—and deliberately practice that exact quality in your very next interaction today.
 
 ---
 Please consider sponsoring me as a sign of support.
