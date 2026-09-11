@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-09-10)
+## 🌟 Today's Stoic Reflection (2026-09-11)
 
-As the Roman Emperor and Stoic philosopher Marcus Aurelius wrote in his private journal: **"The best revenge is to be unlike him who performed the injury."**
+"Difficulties strengthen the mind, as labor does the body." — Seneca
 
-When someone wrongs us, our natural instinct is often to retaliate, but doing so only drags us down to the very level of the person who hurt us. True strength isn't about winning a feud; it is about protecting your own character and refusing to let another person’s poor behavior dictate who you become. By choosing integrity over retaliation, you break the cycle of conflict and preserve the only thing truly within your control: your own mind and actions.
+Just as physical exercise tears muscle fibers so they can rebuild stronger, mental and emotional challenges force our minds to adapt, mature, and grow. When you encounter stress, frustration, or unexpected setbacks, they are not signs that your day is ruined; they are the exact weights you need to lift to build inner resilience. By shifting your mindset from "Why is this happening to me?" to "How is this building my strength?", you transform everyday obstacles into valuable mental training.
 
-**Today's Exercise:** 
-Think of someone who recently frustrated you by being rude, dishonest, or unfair. Instead of complaining or plotting how to get back at them, identify the specific quality they lacked—such as patience, honesty, or kindness—and deliberately practice that exact quality in your very next interaction today.
+**Today’s Exercise: The Mental Gym**
+The next time you face a minor irritation or difficulty today—whether it’s a delay in traffic, a tedious task, or a demanding person—pause before reacting and say to yourself, *"This is my mental workout."* Instead of wishing the discomfort away, focus entirely on responding with patience and composure, treating the moment as a deliberate rep to strengthen your mind.
 
 ---
 Please consider sponsoring me as a sign of support.
