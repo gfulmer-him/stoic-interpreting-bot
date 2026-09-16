@@ -365,3 +365,11 @@ True freedom and abundance aren't found in endlessly accumulating more things, b
 
 **Actionable Exercise for Today:**
 Identify one thing you feel tempted to buy today—whether it’s a new gadget, an upgrade, or an impulse purchase—and pause. Ask yourself, "Will this solve a genuine need, or am I just feeding a temporary desire?" Choose to walk away from the purchase, and instead, take sixty seconds to write down three items you already own that serve you well.
+
+## Daily Reflection for 2026-09-16
+As the Roman Stoic philosopher Seneca famously wrote, *"If a man knows not which port he sails on, no wind is favorable."*
+
+Seneca is reminding us that without a clear direction or core purpose, even the best opportunities in life will feel useless or overwhelming. When you don't know what you are aiming for, every decision becomes arbitrary, and you lose the ability to measure meaningful progress. True personal agency doesn't come from trying to control the unpredictable weather of life, but from choosing your destination so you can use whatever wind comes your way to move forward.
+
+**Today’s Exercise:** 
+Take five minutes right now to write down your primary "port" for the day—a single goal, value, or intention you want to focus on. Before responding to any distraction or major choice today, pause and ask yourself: *"Is this helping me sail toward my port, or am I just drifting?"*

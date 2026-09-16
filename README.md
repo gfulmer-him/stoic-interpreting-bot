@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-09-15)
+## 🌟 Today's Stoic Reflection (2026-09-16)
 
-As the ancient Stoic philosopher Epictetus famously said, *"Wealth consists not in having great possessions, but in having few wants."*
+As the Roman Stoic philosopher Seneca famously wrote, *"If a man knows not which port he sails on, no wind is favorable."*
 
-True freedom and abundance aren't found in endlessly accumulating more things, but in mastering your own desires. When you constantly chase what you don't have, even immense luxury feels like poverty because you remain trapped in a perpetual cycle of craving. By intentionally shifting your focus from acquiring to appreciating, you instantly become rich because you realize you already have enough.
+Seneca is reminding us that without a clear direction or core purpose, even the best opportunities in life will feel useless or overwhelming. When you don't know what you are aiming for, every decision becomes arbitrary, and you lose the ability to measure meaningful progress. True personal agency doesn't come from trying to control the unpredictable weather of life, but from choosing your destination so you can use whatever wind comes your way to move forward.
 
-**Actionable Exercise for Today:**
-Identify one thing you feel tempted to buy today—whether it’s a new gadget, an upgrade, or an impulse purchase—and pause. Ask yourself, "Will this solve a genuine need, or am I just feeding a temporary desire?" Choose to walk away from the purchase, and instead, take sixty seconds to write down three items you already own that serve you well.
+**Today’s Exercise:** 
+Take five minutes right now to write down your primary "port" for the day—a single goal, value, or intention you want to focus on. Before responding to any distraction or major choice today, pause and ask yourself: *"Is this helping me sail toward my port, or am I just drifting?"*
 
 ---
 Please consider sponsoring me as a sign of support.
