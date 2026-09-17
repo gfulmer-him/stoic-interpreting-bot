@@ -2,14 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-09-16)
+## 🌟 Today's Stoic Reflection (2026-09-17)
 
-As the Roman Stoic philosopher Seneca famously wrote, *"If a man knows not which port he sails on, no wind is favorable."*
+Marcus Aurelius, the Roman Emperor and Stoic philosopher, famously wrote: "Waste no more time arguing about what a good man should be. Be one."
 
-Seneca is reminding us that without a clear direction or core purpose, even the best opportunities in life will feel useless or overwhelming. When you don't know what you are aiming for, every decision becomes arbitrary, and you lose the ability to measure meaningful progress. True personal agency doesn't come from trying to control the unpredictable weather of life, but from choosing your destination so you can use whatever wind comes your way to move forward.
+It is easy to get caught up in endless debates, online outrage, or lofty discussions about morality, but mere theories do not make the world any better. Marcus Aurelius reminds us that true character is not proven by what we preach, but by how we choose to act in our ordinary, daily lives. Real Stoicism is not an academic exercise; it is the quiet, consistent decision to embody integrity, kindness, and self-discipline right now, without needing an audience or applause.
 
-**Today’s Exercise:** 
-Take five minutes right now to write down your primary "port" for the day—a single goal, value, or intention you want to focus on. Before responding to any distraction or major choice today, pause and ask yourself: *"Is this helping me sail toward my port, or am I just drifting?"*
+**Today’s Exercise:** Identify one small, good deed you usually just *think* about doing—such as giving a sincere compliment, taking over a tedious chore, or holding back a sharp comment during a disagreement—and simply do it today without mentioning it to anyone.
 
 ---
 Please consider sponsoring me as a sign of support.
