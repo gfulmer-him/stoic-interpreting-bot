@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-09-18)
+## 🌟 Today's Stoic Reflection (2026-09-19)
 
-As the ancient Stoic teacher Epictetus wisely noted, "No man is free who is not master of himself." 
+"If it is not right do not do it; if it is not true do not say it." — Marcus Aurelius
 
-True freedom isn't about having zero external constraints; it is about having complete control over your own reactions, impulses, and choices. When you allow anger, cravings, or digital distractions to dictate your behavior, you hand over your autonomy to external forces. Real sovereignty begins the moment you create a space between a stimulus and your response, choosing reason over knee-jerk emotion.
+At its core, this maxim serves as a simple daily filter to strip away the rationalizations, white lies, and small moral compromises we so easily make. It demands that we align our actions with fundamental integrity and our words with absolute honesty, regardless of social pressure or personal inconvenience. When you stop acting against your conscience and stop speaking untruths, you eliminate internal conflict and cultivate a deep, quiet strength.
 
-**Actionable Exercise for Today: The 10-Second Pause**
-Whenever you feel a strong urge to react impulsively today—whether it's checking your phone during a focus period, sending a heated reply to an email, or reaching for an unhealthy snack—stop and count silently to ten while taking two deep breaths. Use this brief pause to ask yourself, "Is this reaction helping me master myself, or is it mastering me?" before you choose how to proceed.
+**Actionable Exercise for Today: The Five-Second Pause**
+Before you make a decision, post online, or respond in a conversation today, pause for five seconds and ask yourself two simple questions: *Is this completely true? Is this genuinely right?* If the answer to either question is "no"—or even a hesitant "maybe"—do not say it, and do not do it.
 
 ---
 Please consider sponsoring me as a sign of support.
