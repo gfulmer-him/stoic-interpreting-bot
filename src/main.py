@@ -15,6 +15,7 @@ def fetch_and_check_quote() -> str:
     MODEL_ID = 'gemini-3.6-flash'
     MAX_STORED_QUOTES = 21
     MAX_RETRIES = 5
+    RETRY_DELAY = 480 # 4 minutes
     if not api_key:
         print("Error: LLM_API_KEY environment variable not found.")
         return
@@ -50,9 +51,9 @@ def fetch_and_check_quote() -> str:
             return quotation_text
         except ServerError as e:
             # check any 500 level error
-            if e.code >= 500 and attempt < MAX_RETRIES - 1:
-                sleep_time = (attempt + 1) * 30
-                print(f"Gemini API 503 busy. Retrying in {sleep_time} seconds.")
+            if ((e.code >= 500 | e.code == 429) and attempt < MAX_RETRIES - 1):
+                sleep_time = (attempt + 1) * RETRY_DELAY
+                print(f"Errors encountered. Retrying in {sleep_time} seconds.")
                 time.sleep(sleep_time)
                 continue
             raise e
@@ -119,9 +120,9 @@ To receive these daily updates directly in your email inbox, click the Watch but
             return reflection_text
         except ServerError as e:
             # check any 500 level error
-            if e.code >= 500 and attempt < MAX_RETRIES - 1:
-                sleep_time = (attempt + 1) * 5
-                print(f"Gemini API 503 busy. Retrying in {sleep_time} seconds.")
+            if ((e.code >= 500 | e.code == 429) and attempt < MAX_RETRIES - 1):
+                sleep_time = (attempt + 1) * RETRY_DELAY
+                print(f"Errors encountered. Retrying in {sleep_time} seconds.")
                 time.sleep(sleep_time)
                 continue
             raise e
