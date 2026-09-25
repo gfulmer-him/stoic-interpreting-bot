@@ -420,3 +420,10 @@ Seneca once wrote, "Every night before going to sleep, we must ask ourselves: wh
 Stoicism isn't about achieving instant perfection, but about committing to small, continuous self-improvement every single day. By taking a few quiet moments each evening to review your behavior, you transform daily mistakes into opportunities for growth rather than sources of guilt. This simple reflection builds deep self-awareness, helping you incrementally strengthen your character over time.
 
 **Actionable Exercise for Today:** Tonight, right before you turn off the lights, set a timer for two minutes and write down one specific moment from today where you resisted a bad habit, stayed calm under pressure, or chose reason over an impulsive reaction.
+
+## Daily Reflection for 2026-09-25
+As Seneca once wrote, "True happiness is to enjoy the present, without anxious dependence upon the future."
+
+We often trick ourselves into believing that peace of mind lies just beyond the next milestone, promotion, or solved problem. Seneca reminds us that tying our emotional well-being to an uncertain future steals the only moment we actually have the power to experience and shape. True contentment isn't found in controlling tomorrow, but in fully engaging with the present reality right in front of us.
+
+**Today's Exercise:** Whenever you notice yourself worrying about a future outcome today, pause for five seconds, name the specific task you are currently doing out loud or in your head, and bring your full attention back to completing just that one task.
