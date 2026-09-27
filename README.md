@@ -2,13 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-09-26)
+## 🌟 Today's Stoic Reflection (2026-09-27)
 
-"Loss is nothing else but change, and change is Nature's delight." — Marcus Aurelius
+"First say to yourself what you would be; and then do what you have to do." — Epictetus
 
-We often view loss as a tragic subtraction, but in reality, it is simply the continuous process of transformation that governs the world. When we fight against change, we multiply our suffering by resisting the fundamental order of life. By accepting that everything is impermanent, we learn to release what passes and focus our energy on adapting to what is here right now.
+Before taking action, we must define the character and values we wish to embody rather than letting circumstances dictate who we become. Once that identity is clear, every decision transforms from a vague choice into a straightforward test of alignment with that standard. True self-mastery comes from bridging the gap between who we intend to be and the small, daily choices we make.
 
-**Today's Exercise:** Identify one recent disruption or loss in your life—whether small, like a broken daily routine, or larger, like a missed opportunity—and write down one practical way this shift creates room for you to practice adaptability or focus on what still remains.
+**Today's Exercise:** Choose one core virtue you want to embody today—such as patience, courage, or focus—write it down on a piece of paper, and execute one deliberate action before sunset that proves that commitment to yourself.
 
 ---
 Please consider sponsoring me as a sign of support.
