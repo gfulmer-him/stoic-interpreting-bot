@@ -482,3 +482,11 @@ Seneca famously warned us, "While we wait for life, life passes."
 Many of us spend our days in a state of suspended animation, assuming real life only begins once we finish a project, survive the week, or reach a major milestone. By constantly looking ahead to some ideal future, we treat the present as an inconvenience to be endured rather than the only reality we actually possess. Stoicism reminds us that life is not a destination waiting at the end of our to-do list, but the sum of the exact moments we are living right now.
 
 **Today's Exercise:** Pick one routine task you usually rush through to "get to the good part"—such as making coffee, commuting, or doing the dishes—and give it your complete, undivided attention today without checking your phone or wishing to be anywhere else.
+
+## Daily Reflection for 2026-10-05
+"The best revenge is to be unlike him who performed the injury." — Marcus Aurelius
+
+When someone wrongs us, our default instinct is often to strike back or match their bad behavior, but doing so only drags us down to their level. True strength lies in recognizing that another person's poor character is their problem, while your character remains entirely within your control. By responding with integrity, patience, and composure instead of retaliation, you protect your own peace and prove that their hostility has no power over you.
+
+**Actionable Exercise for Today:** 
+If someone is rude, unfair, or inconsiderate toward you today, take a slow breath and consciously choose to respond with calm courtesy rather than mirroring their negative behavior.
