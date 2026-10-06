@@ -2,14 +2,14 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-10-05)
+## 🌟 Today's Stoic Reflection (2026-10-06)
 
-"The best revenge is to be unlike him who performed the injury." — Marcus Aurelius
+As the ancient Stoic philosopher Epictetus once observed, "It is impossible for a man to learn what he thinks he already knows." 
 
-When someone wrongs us, our default instinct is often to strike back or match their bad behavior, but doing so only drags us down to their level. True strength lies in recognizing that another person's poor character is their problem, while your character remains entirely within your control. By responding with integrity, patience, and composure instead of retaliation, you protect your own peace and prove that their hostility has no power over you.
+When we assume we already understand a situation, a person, or a skill, we build a wall around our minds and shut out continuous growth. In modern life, the ego's drive to feel correct often overrides our natural curiosity, causing us to react on autopilot and repeat avoidable mistakes. Practicing intellectual humility isn't about doubting your own intelligence; it is about keeping yourself receptive enough to see reality as it actually is rather than how you assume it to be.
 
-**Actionable Exercise for Today:** 
-If someone is rude, unfair, or inconsiderate toward you today, take a slow breath and consciously choose to respond with calm courtesy rather than mirroring their negative behavior.
+**Today’s Actionable Exercise:** 
+Identify one conversation or problem today where you feel completely certain of your stance, and actively pause to ask one genuine, open-ended question designed to uncover a perspective or detail you might have missed.
 
 ---
 Please consider sponsoring me as a sign of support.
