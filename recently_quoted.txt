@@ -1,4 +1,3 @@
-"Fire tests gold, suffering tests brave men." — Seneca
 "To be everywhere is to be nowhere." — Seneca
 "Wealth consists not in having great possessions, but in having few wants." — Epictetus
 "If a man knows not which port he sails on, no wind is favorable." — Seneca
@@ -19,3 +18,4 @@
 "While we wait for life, life passes." — Seneca
 "The best revenge is to be unlike him who performed the injury." — Marcus Aurelius
 "It is impossible for a man to learn what he thinks he already knows." — Epictetus
+"We suffer more often in imagination than in reality." — Seneca
