@@ -505,3 +505,10 @@ Identify one conversation or problem today where you feel completely certain of 
 Most of our anxiety stems not from our current circumstances, but from the catastrophic stories we tell ourselves about what might happen next. We constantly rehearse hypothetical failures, conflicts, and heartbreaks, putting our minds and bodies through real emotional stress over fictional scenarios. By distinguishing between present facts and future fears, we reclaim our energy to handle only the actual challenges right in front of us.
 
 **Actionable exercise for today:** Whenever you feel a wave of anxiety today, pause and ask yourself, "Is this happening right now, or am I suffering in advance?" If the threat exists only in your head, take a deep breath, write the fear down on paper to get it out of your mind, and return your focus entirely to the task at hand.
+
+## Daily Reflection for 2026-10-10
+Epictetus famously wrote, "Difficulties show what men are."
+
+When life is easy, anyone can present a calm and capable exterior, but adversity acts as a mirror that reveals our true character. From a Stoic perspective, obstacles are not unfair burdens, but rather raw material for practicing essential virtues like courage, patience, and adaptability. When hard times hit, how you respond tells you—and the world—exactly who you are under pressure.
+
+**Actionable Exercise for Today:** The next time an unexpected frustration or setback disrupts your day, pause for five seconds before reacting and ask yourself: "What virtue can I practice right now to handle this well?"
