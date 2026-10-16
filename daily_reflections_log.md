@@ -528,3 +528,10 @@ True freedom isn't about endlessly increasing your income or accumulating physic
 
 **Actionable Exercise for Today:** 
 Identify one non-essential item or service you were planning to buy today—whether it's a luxury coffee, an impulse online purchase, or an extra snack—and deliberately choose to skip it, reflecting for a moment on how completely fine you are without it.
+
+## Daily Reflection for 2026-10-16
+"How long are you going to wait before you demand the best for yourself?" — Epictetus
+
+We often delay living according to our values, telling ourselves we will step up only when life becomes less chaotic. Epictetus reminds us that self-respect isn't a reward waiting at some future finish line, but a standard of conduct we must choose right now. Demanding the best for yourself doesn't mean expecting perfection or material success; it means refusing to compromise on your character, focus, and choices today.
+
+**Today's Exercise:** Identify one personal standard you have been letting slide—such as procrastinating on an important task, eating poorly, or losing your patience—and actively uphold it the very next time you feel tempted to give in today.

@@ -2,14 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-10-15)
+## 🌟 Today's Stoic Reflection (2026-10-16)
 
-"Wealth consists not in having great possessions, but in having few wants." — Epictetus
+"How long are you going to wait before you demand the best for yourself?" — Epictetus
 
-True freedom isn't about endlessly increasing your income or accumulating physical goods, but about gaining mastery over your desires. When you tie your peace of mind to the next purchase or lifestyle upgrade, you put yourself on an endless treadmill of needing more just to stay content. By training yourself to appreciate what you already have and intentional reducing unnecessary desires, you instantly eliminate anxiety and gain a sense of richness that money cannot buy.
+We often delay living according to our values, telling ourselves we will step up only when life becomes less chaotic. Epictetus reminds us that self-respect isn't a reward waiting at some future finish line, but a standard of conduct we must choose right now. Demanding the best for yourself doesn't mean expecting perfection or material success; it means refusing to compromise on your character, focus, and choices today.
 
-**Actionable Exercise for Today:** 
-Identify one non-essential item or service you were planning to buy today—whether it's a luxury coffee, an impulse online purchase, or an extra snack—and deliberately choose to skip it, reflecting for a moment on how completely fine you are without it.
+**Today's Exercise:** Identify one personal standard you have been letting slide—such as procrastinating on an important task, eating poorly, or losing your patience—and actively uphold it the very next time you feel tempted to give in today.
 
 ---
 Please consider sponsoring me as a sign of support.
