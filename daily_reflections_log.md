@@ -542,3 +542,10 @@ In the words of the Roman Stoic philosopher Seneca: "Begin at once to live, and 
 We often waste our energy waiting for the "right time" to start living, treating today as merely a stepping stone toward a future that is never guaranteed. Seneca urges us to flip this perspective by viewing every single day as a complete, self-contained lifetime with its own beginning, middle, and end. When you focus entirely on living well within the boundary of these twenty-four hours, the burden of past mistakes and future anxieties naturally falls away.
 
 **Actionable Exercise for Today:** Before sunset, identify one meaningful action you have been putting off—such as reaching out to a friend, addressing a minor problem, or taking a dedicated walk without your phone—and complete it as if today were your only opportunity to do so.
+
+## Daily Reflection for 2026-10-18
+"You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius
+
+In our daily lives, we waste immense energy trying to control traffic, flight delays, or other people's behavior—none of which are truly in our hands. Real strength comes when you accept that while you cannot dictate what happens around you, you retain absolute authority over how you interpret and respond to those events. By shifting your focus away from external chaos and onto your internal mindset, you immediately reclaim your composure and peace of mind.
+
+**Actionable exercise for today:** Whenever you feel a spike of stress or frustration today, pause and ask yourself, "Is this circumstance in my control, or is my response to it in my control?" Let go of trying to fix the external circumstance, and spend the next two minutes intentionally choosing a calm, constructive reaction instead.
