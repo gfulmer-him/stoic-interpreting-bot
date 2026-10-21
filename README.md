@@ -2,13 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-10-20)
+## 🌟 Today's Stoic Reflection (2026-10-21)
 
-Seneca famously wrote, "If a man knows not which port he sails to, no wind is favorable."
+"Dwell on the beauty of life. Watch the stars, and see yourself running with them." — Marcus Aurelius
 
-Without a clear vision of your core values and long-term intentions, even the most fortunate circumstances will leave you feeling aimless and overwhelmed. Stoicism teaches that external events are like the wind—neutral forces that only gain meaningful direction when matched with your own purposeful aim. When you clearly define who you want to be and what truly matters, every situation—whether a smooth break or an unexpected setback—can be harnessed to move you forward.
+In this passage, Marcus Aurelius is reminding us to practice what Stoics call the "view from above," a mental shift that puts our daily stresses into a vast, cosmic perspective. When we fixate solely on our immediate anxieties, we lose sight of the immense, interconnected web of existence we belong to. Expanding our focus to the natural beauty around us restores clarity, helping us navigate life's challenges with calm and gratitude.
 
-**Today's Exercise:** Before beginning your day or taking on your next task, write down one core character trait you want to embody today (such as *patience*, *focus*, or *courage*). Keep that word visible, and use it as your destination standard whenever you have to make a decision or respond to stress today.
+**Today's Exercise:** Tonight, step outside or look out a window for five minutes, gaze up at the sky or observe a piece of nature, and consciously remind yourself that your present worries are just tiny, temporary blips within a vast and magnificent universe.
 
 ---
 Please consider sponsoring me as a sign of support.
