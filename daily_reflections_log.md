@@ -570,3 +570,11 @@ Without a clear vision of your core values and long-term intentions, even the mo
 In this passage, Marcus Aurelius is reminding us to practice what Stoics call the "view from above," a mental shift that puts our daily stresses into a vast, cosmic perspective. When we fixate solely on our immediate anxieties, we lose sight of the immense, interconnected web of existence we belong to. Expanding our focus to the natural beauty around us restores clarity, helping us navigate life's challenges with calm and gratitude.
 
 **Today's Exercise:** Tonight, step outside or look out a window for five minutes, gaze up at the sky or observe a piece of nature, and consciously remind yourself that your present worries are just tiny, temporary blips within a vast and magnificent universe.
+
+## Daily Reflection for 2026-10-22
+"If it is not right do not do it; if it is not true do not say it." — Marcus Aurelius
+
+In this concise maxim, Marcus Aurelius gives us a straightforward filter to eliminate unnecessary regret and moral friction from our daily lives. We often overcomplicate our choices, yet most situations simplify instantly when we weigh them strictly against basic integrity and truthfulness. By refusing to engage in small ethical compromises or casual falsehoods, we protect our peace of mind and build a reputation for reliability.
+
+**Today's Exercise:** 
+Before you send a message, make a statement, or commit to an action today, pause for three seconds and ask yourself: *"Is this true, and is this right?"* If the answer to either question is no, stay silent or refrain from acting.
