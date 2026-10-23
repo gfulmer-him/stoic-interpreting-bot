@@ -578,3 +578,10 @@ In this concise maxim, Marcus Aurelius gives us a straightforward filter to elim
 
 **Today's Exercise:** 
 Before you send a message, make a statement, or commit to an action today, pause for three seconds and ask yourself: *"Is this true, and is this right?"* If the answer to either question is no, stay silent or refrain from acting.
+
+## Daily Reflection for 2026-10-23
+"True happiness is to enjoy the present, without anxious dependence upon the future." — Seneca
+
+Seneca reminds us that peace of mind disappears the moment we pin our well-being on outcomes we cannot guarantee. When we constantly focus on the next milestone, promotion, or resolution, we treat the current moment as a mere obstacle to be endured. True contentment comes from fully engaging with what is right in front of you, trusting that doing your best today is the best preparation for tomorrow.
+
+**Actionable exercise for today:** Whenever you catch yourself feeling anxious about a future event, pause for ten seconds, name one small action you can actually control right now, and give that task your full attention.
