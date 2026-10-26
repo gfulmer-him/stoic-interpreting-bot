@@ -2,13 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-10-25)
+## 🌟 Today's Stoic Reflection (2026-10-26)
 
-"He who fears death will never do anything worthy of a man who is alive." — Seneca
+"First say to yourself what you would be; and then do what you have to do." — Epictetus
 
-Seneca isn't asking us to ignore our mortality, but to realize that letting fear control our choices paralyzes us from truly living. When we spend our lives playing it entirely safe—fearing not just physical death, but the mini-deaths of failure, rejection, or discomfort—we trade away our purpose and potential. Embracing the fact that our time is limited gives us the clarity to stop hesitating and focus on doing meaningful work right now.
+Epictetus reminds us that personal growth begins with defining your character before you try to change your behavior. When you explicitly state who you aim to be—whether calm, disciplined, or reliable—your daily choices transform from confusing dilemmas into clear alignment tests. True transformation isn't about passive wishing, but consistently executing the practical work that your chosen identity demands.
 
-**Today's Exercise:** Identify one necessary task or conversation you have been avoiding out of a fear of failure or discomfort, and take the very first concrete step toward resolving it before the day ends.
+**Today’s Exercise:** Write down one core trait you want to embody today (such as "a patient listener" or "a focused worker"), and execute three specific actions before sunset that directly prove that identity to yourself.
 
 ---
 Please consider sponsoring me as a sign of support.
