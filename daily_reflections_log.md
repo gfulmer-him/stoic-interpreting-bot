@@ -642,3 +642,10 @@ What you pay attention to repeatedly becomes your default mental atmosphere, sha
 Living well is not a state of perfection you reach and retain forever, but an ongoing practice that requires daily attention and humility. It is easy to assume that age or success means we have all the answers, yet life constantly presents new circumstances that test our character and resilience. By viewing yourself as a lifelong student, you transform every frustration, change, and setback into an opportunity to refine how you think and act.
 
 **Today’s Exercise:** The next time you encounter a minor frustration or unexpected obstacle today, pause before reacting and ask yourself: *"What is this situation trying to teach me about how I respond to life?"*
+
+## Daily Reflection for 2026-11-01
+"The best revenge is to be unlike him who performed the injury." — Marcus Aurelius
+
+When someone wrongs or disrespects us, our initial instinct is often to strike back using the exact same harmful behavior. However, Stoicism reminds us that adopting the toxic tactics of others only degrades our own character and keeps us trapped in their negativity. True strength comes not from lowering yourself to their level, but from remaining firmly grounded in your own integrity regardless of how they act.
+
+**Actionable Exercise for Today:** If someone is rude, impatient, or passive-aggressive toward you today, take a slow breath and consciously respond with calm politeness or neutral courtesy instead of matching their tone.
