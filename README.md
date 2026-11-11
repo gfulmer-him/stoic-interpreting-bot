@@ -2,14 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-11-10)
+## 🌟 Today's Stoic Reflection (2026-11-11)
 
-In his letters, the Roman Stoic philosopher Seneca advised: "Begin at once to live, and count each separate day as a separate life." 
+"Waste no more time arguing about what a good man should be. Be one." — Marcus Aurelius
 
-We often waste our present moments by endlessly waiting for the future to begin or carrying the weight of yesterday's mistakes into today. Seneca reminds us that every single morning offers a clean slate, encouraging us to treat each day as its own self-contained lifetime from sunrise to sunset. By narrowing your focus to just the next twenty-four hours, you cut through long-term overwhelm and channel your full energy into what you can actually control right now.
+It is easy to spend our energy debating ethics, complaining about how others behave, or endlessly planning our personal growth. Marcus Aurelius reminds us that philosophy isn't an academic theory; it is a lived practice defined entirely by our daily choices. True character is not proved by what we say we believe, but by how we act in the present moment.
 
-**Actionable Exercise for Today:** 
-Tonight before you go to sleep, take two minutes to intentionally "close out" today as if it were an entire lifetime: write down one thing you are grateful for, forgive yourself for one mistake, and consciously let the day end so you can wake up tomorrow fully renewed.
+**Today's Exercise:** Identify one opportunity to do the right thing today—whether it's helping a coworker, staying patient in traffic, or completing a chore—and execute it immediately without complaining, talking about it, or seeking recognition.
 
 ---
 Please consider sponsoring me as a sign of support.
