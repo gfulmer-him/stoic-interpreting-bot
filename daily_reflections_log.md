@@ -715,3 +715,10 @@ Tonight before you go to sleep, take two minutes to intentionally "close out" to
 It is easy to spend our energy debating ethics, complaining about how others behave, or endlessly planning our personal growth. Marcus Aurelius reminds us that philosophy isn't an academic theory; it is a lived practice defined entirely by our daily choices. True character is not proved by what we say we believe, but by how we act in the present moment.
 
 **Today's Exercise:** Identify one opportunity to do the right thing today—whether it's helping a coworker, staying patient in traffic, or completing a chore—and execute it immediately without complaining, talking about it, or seeking recognition.
+
+## Daily Reflection for 2026-11-12
+"If a man knows not which port he sails to, no wind is favorable." — Seneca
+
+Without a clear direction or set of core values, every circumstance in life can feel overwhelming and chaotic. Stoicism teaches us that external events are entirely neutral, gaining true meaning only when measured against our intended destination. Once you define your purpose, even unexpected setbacks become useful forces that can propel you forward.
+
+**Today's Exercise:** Choose one core virtue you want to embody today—such as patience, courage, or focus—and write it at the top of a index card or phone note; whenever an unexpected frustration arises, use that moment specifically to practice that chosen virtue.
