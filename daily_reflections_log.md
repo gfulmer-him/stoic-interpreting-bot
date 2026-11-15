@@ -737,3 +737,10 @@ Seneca famously advised, "Associate with people who are likely to improve you."
 We naturally absorb the habits, mindsets, and emotional energy of the people we spend the most time with. Stoicism isn't about isolating yourself from the world, but about making conscious choices regarding who you allow to influence your character. When you surround yourself with individuals who embody integrity, composure, and practical wisdom, your own standards naturally rise to match theirs.
 
 **Today's Exercise:** Take five minutes to review your daily interactions and identify one person in your life who consistently inspires you to be calmer, wiser, or more disciplined. Reach out to them today—whether through a text, call, or invitation to meet—to intentionally cultivate that relationship.
+
+## Daily Reflection for 2026-11-15
+"Loss is nothing else but change, and change is Nature's delight," wrote the Roman Emperor and Stoic philosopher Marcus Aurelius.
+
+We often view loss—whether of a job, a relationship, or a familiar routine—as a personal setback, but it is simply the natural shift of life taking a new form. The universe operates through constant transformation, and resisting this reality only creates unnecessary mental suffering. When we learn to reframe loss as a necessary part of existence rather than an enemy, we gain the clarity to adapt and find strength in what comes next.
+
+**Today's Exercise:** Think of one small thing you recently lost or had to give up—such as a canceled plan, a broken habit, or a missed opportunity. Spend two minutes writing down one new path, lesson, or space that this change opened up for you.
