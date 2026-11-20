@@ -765,3 +765,10 @@ Seneca once wrote, "While we wait for life, life passes."
 We frequently defer our true engagement with existence, waiting for the weekend, a career milestone, or perfect circumstances to finally begin living. By treating the present moment as a mere waiting room for an imagined future, we surrender the only period of time we actually possess. Stoicism reminds us that life is not a grand event waiting for us down the road, but the immediate experience unfolding right now.
 
 **Today's Exercise:** Choose one routine activity today—such as drinking your morning coffee, walking to your car, or washing the dishes—and give it your complete, undivided attention without checking your phone, listening to a podcast, or rushing to the next task.
+
+## Daily Reflection for 2026-11-20
+"If it is not right do not do it; if it is not true do not say it." — Marcus Aurelius
+
+Marcus Aurelius offers us a remarkably simple filter for navigating our daily decisions and conversations. Instead of overthinking complex social pressures or personal justifications, this principle demands that our actions align with morality and our words align with reality. By eliminating small dishonesties and morally questionable compromises, we cut out unnecessary regret and build genuine peace of mind.
+
+**Today's Exercise:** Before you speak or act today—especially in a difficult conversation or when responding online—pause for three seconds and ask yourself: *"Is this completely true, and is it undeniably right?"* If the answer to either question is no, refrain from doing or saying it.
