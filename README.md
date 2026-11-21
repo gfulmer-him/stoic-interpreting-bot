@@ -2,13 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-11-20)
+## 🌟 Today's Stoic Reflection (2026-11-21)
 
-"If it is not right do not do it; if it is not true do not say it." — Marcus Aurelius
+In the words of Roman Emperor and Stoic philosopher Marcus Aurelius: "Wherever a man can live, he can live well."
 
-Marcus Aurelius offers us a remarkably simple filter for navigating our daily decisions and conversations. Instead of overthinking complex social pressures or personal justifications, this principle demands that our actions align with morality and our words align with reality. By eliminating small dishonesties and morally questionable compromises, we cut out unnecessary regret and build genuine peace of mind.
+This quote reminds us that the quality of our lives depends on our internal character rather than our external surroundings or circumstances. It is easy to assume that peace and fulfillment require a change of scenery, a better job, or ideal conditions, but Stoicism teaches that a good life is built right where you stand. Regardless of your current constraints, you always retain the power to choose wisdom, patience, and integrity in this very moment.
 
-**Today's Exercise:** Before you speak or act today—especially in a difficult conversation or when responding online—pause for three seconds and ask yourself: *"Is this completely true, and is it undeniably right?"* If the answer to either question is no, refrain from doing or saying it.
+**Today's Exercise:** Identify one frustrating aspect of your current surroundings or daily routine that you normally wish you could escape. Instead of wishing it away, choose to treat that exact situation as a training ground to practice patience, composure, or excellence today.
 
 ---
 Please consider sponsoring me as a sign of support.
