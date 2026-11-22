@@ -2,13 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-11-21)
+## 🌟 Today's Stoic Reflection (2026-11-22)
 
-In the words of Roman Emperor and Stoic philosopher Marcus Aurelius: "Wherever a man can live, he can live well."
+"You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius
 
-This quote reminds us that the quality of our lives depends on our internal character rather than our external surroundings or circumstances. It is easy to assume that peace and fulfillment require a change of scenery, a better job, or ideal conditions, but Stoicism teaches that a good life is built right where you stand. Regardless of your current constraints, you always retain the power to choose wisdom, patience, and integrity in this very moment.
+Most of our daily frustration stems from attempting to control things outside our domain, such as traffic, economic shifts, or other people's behavior. Roman Emperor Marcus Aurelius reminds us that genuine resilience begins when we shift our attention inward to our own judgments and choices. By accepting that external circumstances are outside our command, we reclaim the energy needed to master the one thing we actually govern: our internal response.
 
-**Today's Exercise:** Identify one frustrating aspect of your current surroundings or daily routine that you normally wish you could escape. Instead of wishing it away, choose to treat that exact situation as a training ground to practice patience, composure, or excellence today.
+**Today's Exercise:** Whenever a situation frustrates you today, pause and ask yourself, "Is this within my direct control?" If the answer is no, take a single deep breath, consciously drop the desire to force the outcome, and shift your focus entirely to choosing a calm, constructive response.
 
 ---
 Please consider sponsoring me as a sign of support.
