@@ -786,3 +786,10 @@ This quote reminds us that the quality of our lives depends on our internal char
 Most of our daily frustration stems from attempting to control things outside our domain, such as traffic, economic shifts, or other people's behavior. Roman Emperor Marcus Aurelius reminds us that genuine resilience begins when we shift our attention inward to our own judgments and choices. By accepting that external circumstances are outside our command, we reclaim the energy needed to master the one thing we actually govern: our internal response.
 
 **Today's Exercise:** Whenever a situation frustrates you today, pause and ask yourself, "Is this within my direct control?" If the answer is no, take a single deep breath, consciously drop the desire to force the outcome, and shift your focus entirely to choosing a calm, constructive response.
+
+## Daily Reflection for 2026-11-23
+"First say to yourself what you would be; and then do what you have to do." — Epictetus
+
+Clarity of purpose must always precede action; you cannot build a meaningful life if you do not first define the character and values you want to embody. Once you establish who you want to be—whether that is a patient listener, a disciplined worker, or a reliable friend—your daily decisions become straightforward tests of alignment with that ideal. Epictetus reminds us that self-improvement is not about vague wishing, but about committing to a clear identity and backing it up with concrete, deliberate effort every single day.
+
+**Today's Exercise:** Write down one specific character trait you want to embody today (such as calm, generous, or focused). Before the day ends, perform one concrete action that directly proves to yourself that you are living up to that identity.
