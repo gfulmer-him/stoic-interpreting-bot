@@ -2,14 +2,13 @@
 
 Welcome! This repository uses AI and GitHub Actions to generate a fresh, daily interpretation of Stoic philosophy every morning.
 
-## 🌟 Today's Stoic Reflection (2026-11-24)
+## 🌟 Today's Stoic Reflection (2026-11-25)
 
-Marcus Aurelius famously observed, "The soul becomes dyed with the color of its thoughts." 
+As Marcus Aurelius wrote, "The best revenge is to be unlike him who performed the injury." 
 
-This means that your character, emotional baseline, and overall worldview are directly shaped by the mental habits you cultivate daily. If you constantly indulge in cynicism, anger, or worry, those negative patterns will gradually color your entire life experience. By intentionally practicing constructive, calm, and rational thinking, you train your mind to default to resilience no matter what happens around you.
+When someone wrongs us, our natural impulse is often to retaliate in kind, but doing so only drags us down to their level and perpetuates a cycle of harm. True strength comes from recognizing that another person's bad behavior is a reflection of their character, not a blueprint for yours. By maintaining your integrity and refusing to mirror their toxic actions, you protect your own peace of mind and win the only battle that truly matters: the one over yourself.
 
-**Actionable Exercise for Today:** 
-Perform a "thought check" by setting two alarms on your phone for later today. When an alarm goes off, pause and inspect your current state of mind; if you catch yourself ruminating on frustration or anxiety, interrupt that cycle by writing down one objective, practical step you can take right now to address the situation.
+**Today's Exercise:** The next time someone speaks rudely to you, cuts you off in traffic, or acts unfairly today, pause for three seconds and consciously respond with calm courtesy or quiet dignified silence, proving to yourself that their behavior does not dictate your character.
 
 ---
 Please consider sponsoring me as a sign of support.

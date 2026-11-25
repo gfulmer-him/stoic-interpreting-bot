@@ -801,3 +801,10 @@ This means that your character, emotional baseline, and overall worldview are di
 
 **Actionable Exercise for Today:** 
 Perform a "thought check" by setting two alarms on your phone for later today. When an alarm goes off, pause and inspect your current state of mind; if you catch yourself ruminating on frustration or anxiety, interrupt that cycle by writing down one objective, practical step you can take right now to address the situation.
+
+## Daily Reflection for 2026-11-25
+As Marcus Aurelius wrote, "The best revenge is to be unlike him who performed the injury." 
+
+When someone wrongs us, our natural impulse is often to retaliate in kind, but doing so only drags us down to their level and perpetuates a cycle of harm. True strength comes from recognizing that another person's bad behavior is a reflection of their character, not a blueprint for yours. By maintaining your integrity and refusing to mirror their toxic actions, you protect your own peace of mind and win the only battle that truly matters: the one over yourself.
+
+**Today's Exercise:** The next time someone speaks rudely to you, cuts you off in traffic, or acts unfairly today, pause for three seconds and consciously respond with calm courtesy or quiet dignified silence, proving to yourself that their behavior does not dictate your character.
